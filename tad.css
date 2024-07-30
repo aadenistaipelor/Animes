@@ -1,0 +1,77 @@
+
+body {
+    font-family: 'Poppins', sans-serif; 
+    margin: 0; 
+    padding: 0; 
+}
+
+.header {
+    background-color: #333; 
+    color: #fff; 
+}
+
+.logo {
+    height: 50px; 
+}
+
+.search-bar {
+    margin-left: auto; 
+}
+
+.navbar-nav .nav-link {
+    color: #fff; 
+}
+
+.navbar-nav .nav-link:hover {
+    color: #f8f9fa; 
+}
+
+.carousel-item img {
+    height: 500px; 
+    object-fit: cover; 
+}
+
+.featured-description {
+    background-color: #f8f9fa; 
+    padding: 20px; 
+    border-radius: 8px; 
+}
+
+.featured-description .section-title {
+    margin-bottom: 20px; 
+}
+
+.description-text {
+    font-size: 1.1rem; 
+}
+
+.anime-grid .card {
+    border: none; 
+    border-radius: 8px; 
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); 
+}
+
+.anime-grid .card-title {
+    font-size: 1.1rem; 
+    font-weight: 500; 
+}
+
+.tags .tag-link {
+    display: inline-block; 
+    padding: 10px 15px; 
+    margin: 5px; 
+    background-color: #007bff; 
+    color: #fff; 
+    text-decoration: none; 
+    border-radius: 5px; 
+}
+
+.tags .tag-link:hover {
+    background-color: #0056b3; 
+}
+
+.footer {
+    background-color: #343a40; 
+    color: #fff; 
+    padding: 10px 0; 
+}
